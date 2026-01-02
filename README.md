@@ -6,4 +6,4 @@ For info on setting up your environment and getting your assignment see: <https:
 
 ## Lab Desscriptions
 
- * <lab-0.md>
+ * [Lab 0](lab-0.md)
