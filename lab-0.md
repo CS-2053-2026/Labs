@@ -315,7 +315,7 @@ Then, we\'ll make our process update with the physics engine:
 
 ```gdscript
 func _physics_process(delta):
-    transform = transform.rotated_local(up_direction, rotation_speed\*delta)
+    transform = transform.rotated_local(up_direction, rotation_speed*delta)
 ```
 
 Why multiply by delta? Try it without! Inspect the ```_physics_process``` function and see what API says about its argument - it\'s the time since the last physics engine update, and this can be very quick, and also inconsistent. We\'ll talk about this later in class about the game loop.
