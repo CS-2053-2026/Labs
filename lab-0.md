@@ -447,6 +447,11 @@ You can also try to transform other ways\...try `rotated()` instead of `rotated_
 
 #### That's all for now!
 
+## Except...
+Don't forget to practice pushing your code!
+And checking you push!
+_this is very important._
+
 ## Recap
 
 Phew!
