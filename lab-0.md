@@ -8,15 +8,16 @@
 
 - Install **Godot 4.4.1**; lab machines already have it.
 - This tutorial is a simplified version of one from the official docs.
+- Get the Lab0 repo from github classroom link on D2L.
 - **Assets**:
   - download "squash_thecreeps_stat_1.1.0.zip" from the [1.1.0 release](https://github.com/Godotengine/Godot-3d-dodge-the-creeps/releases/tag/1.1.0).
+  - Just leave this as is for now, we'll come back to it later.
 - **Project creation**:
-  - We started an empty Godot project for you.
-  - Clone the repo and open in Godot.
-  - You should have a project called `labo`
+  - We started an empty Godot project for you. (It's in the lab0_your username repo you cloned)
+  - Open in Godot. (the `.project1 file)
+  - You should have a project called `lab0`
 - *File system note*: root is `res` for resources. 
-- Copy `art` and `fonts` from the unzipped assets into your project folder; they should appear in the FileSystem.
-  - Right-click → "open in file manager" to jump to the folder.
+- Copy `art` and `fonts` from the unzipped assets folder you donwnloaded above into your project folder; they should appear in the FileSystem.
 
 ## Scene & Setup
 
