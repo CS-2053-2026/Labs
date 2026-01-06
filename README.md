@@ -4,6 +4,6 @@ This repository is for the description files and resources associated with lab f
 
 For info on setting up your environment and getting your assignment see: <https://CS-2053-2026.github.io>
 
-## Lab Desscriptions
+## Lab Descriptions
 
  * [Lab 0](lab-0.md)
