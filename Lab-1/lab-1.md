@@ -277,7 +277,7 @@ Godot uses **AudioStreamPlayer** nodes to play audio easily.
 Add An **AudioStreamPlayer3D** node to your player in the Player scene *(not main scene)* and name it **“CatchSound”**. 
 Click on the node and check the Inspector tab. There are a lot of options here! We’ll talk a bit more about sound later in the class.
 
-For now, drag the `Lab1Water.mp3` from the FileSystem window (after you've imported it) to the **“Stream”** menu item in the inspector.
+Download the sound file here: [Lab1water.mp3](https://github.com/CS-2053-2026/Labs/blob/main/Lab-1/Lab1water.mp3). Drag and drop the file from your download directory into your Godot Project. Then drag the `Lab1Water.mp3` from your Godot FileSystem window (after you've imported it) to the **“Stream”** menu item in the inspector.
 It should set that mp3 as the audio to be played. 
 Change the “volume” *(currently at 0 decibels)* to something reasonable – mine was at 7db. 7db is actually quite low *(a whisper is around 30db)* but this gets processed at other stages. Just start low, and bring the volume up until its comfortable – *be careful as loud sounds can damage ears and sound equipment!*
 
