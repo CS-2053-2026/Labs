@@ -62,7 +62,7 @@ Now, we can see if the player has collided with this group.
 Return to the main scene and re-open your **player script**.
 
 We\'re going to add more to our `_physics_process` function.
-It\'s getting a little large, so let\'s put this new code in its own function, which we'll call `_handleCollisions()`. 
+It\'s getting a little large, so let\'s put this new code in its own function, which we'll call `handleCollisions()`. 
 **Don\'t forget to call this new function from your `_physics_process` function!**
 
 Your collision handler should look something like this:
@@ -281,7 +281,7 @@ Download the sound file here: [Lab1water.mp3](https://github.com/CS-2053-2026/La
 It should set that mp3 as the audio to be played. 
 Change the “volume” *(currently at 0 decibels)* to something reasonable – mine was at 7db. 7db is actually quite low *(a whisper is around 30db)* but this gets processed at other stages. Just start low, and bring the volume up until its comfortable – *be careful as loud sounds can damage ears and sound equipment!*
 
-In the **_handleCollisions()** function we made earlier, add **$CatchSound.play()** before the **enemy.catch()**:
+In the **handleCollisions()** function we made earlier, add **$CatchSound.play()** before the **enemy.catch()**:
 
 ```gdscript
 # If the collider is with an enemy
