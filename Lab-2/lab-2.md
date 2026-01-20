@@ -73,7 +73,9 @@ and *Offset* moves the grid around by that many pixels.
 
 First, experiment with these values to align the grid with the Pac \& ghost sprites.
 
-> This is a *particularily* ç
+This is a *particularily* easy sprite sheet; all the images are evenly sized and spaced.
+This makes it easy to extract all the sprites, but not all sheets are so kind.
+
 > Notice the *Size* will automatically adjust as you change rows and columns.
 
 Once your grid is lined up, select the frames for the `Right` animation:
