@@ -79,7 +79,7 @@ This makes it easy to extract all the sprites, but not all sheets are so kind.
 > Notice the *Size* will automatically adjust as you change rows and columns.
 
 Once your grid is lined up, select the frames for the `Right` animation:
-**the first two frames in the second row, and the third frame in the first row.**
+**the second frame in the first row, the second frame in second row, and the fifth frame in the first row.**
 Then add them with the button below.
 
 ![image3](img/p3.png)
