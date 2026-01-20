@@ -165,7 +165,7 @@ Do the same for a ghost as you did for the player:
 * Animated sprite
 * Collision shape
 
-You only *need* to extract one set of ghost sprites, but you can do more if you want.
+Your ghost should be animated somehow. For example, you might have your ghost looking to the right and change between red and blue for each animation frame. Or, you might have only one animation and have your ghost look around in all directions, and use that same animation for every direction you move. You only *need* to extract one set of ghost sprites, but you can do more if you want.
 > **note**: If you set each colour as an animation, it's easy to vary in the spawn code!
 
 ## Environment
