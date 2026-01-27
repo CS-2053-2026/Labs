@@ -71,7 +71,7 @@ Once added, a physics editing panel appears in the TileSet editor:
 
 To make this brick act as solid ground, it needs a collision shape.
 
-Expand the physics layer options until you see the zoomed-in tile view.
+Expand the physics layer options _(in "select" -- not the inspector)_ until you see the zoomed-in tile view.
 Open the menu (*three dots*) and select: **Reset to default tile shape**
 
 This creates a full square collision polygon for the tile.
