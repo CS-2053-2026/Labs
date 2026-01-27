@@ -89,7 +89,7 @@ You should now see a red, semi-transparent square covering the entire tile.
 
 Select the `TileMapLayer` node again.
 
-Rename the Node for this TileSetLayer to `SolidObjects`, then duplicate it and rename the copy to `Decorations`.
+Rename the Node for this TileMapLayer to `SolidObjects`, then duplicate it and rename the copy to `Decorations`.
 
 In the **CanvasItem** section of the Inspector for each of the Nodes, locate **Ordering** → **Z Index**.
 
