@@ -14,8 +14,8 @@ You’ll learn how to build a **scrollable level** using TileMaps and TileSets, 
 
 Before you begin, grab the following sprite sheets from the **labs** GitHub repository:
 
- - [`smbtileset.png`](res/smbtileset.png)
- - [`smb_mario_sheet.png`](res/smb_mario_sheet.png)
+ - [Mario Sprites:`smb_sprites.png`](https://github.com/CS-2053-2026/Labs/blob/main/Lab-3/res/smb_sprites.png)
+ - [Tileset:`smb_tiles.png`](https://github.com/CS-2053-2026/Labs/blob/main/Lab-3/res/smb_tiles.png)
 
 > **Reminder:** This is **not** the repository where you submit your lab—this is just the same repo used in previous weeks for instructional assets and the instructions for the lab.
 
